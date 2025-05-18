@@ -1,0 +1,19 @@
+# Lista de Tareas (To-Do List)
+
+Este repositorio contiene un pequeño proyecto en Python para gestionar una lista de tareas.
+
+## Funcionalidades
+- Agregar nuevas tareas
+- Marcar tareas como completadas
+- Eliminar tareas
+
+## Cómo usarlo
+1. Descargá el archivo `lista-de-tareas-1.zip`.
+2. Descomprimilo en tu computadora o celular.
+3. Abrí el archivo `main.py` con un editor de código (por ejemplo, Visual Studio Code).
+4. Ejecutá el programa para ver cómo funciona.
+
+## Autor
+Camila Benítez  
+Trabajo Práctico Nº 8 – Programación  
+Año: 2025
